@@ -1,6 +1,6 @@
 <!--Enum replacements file for mem logger parser
     Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
-    SPDX-License-Identifier: BSD-3-Clause-Clear.-->
+    SPDX-License-Identifier: BSD-3-Clause.-->
 <root>
 	<pal_stream_type_t>
 		<item name = "LOW_LATENCY" value = "1" />
