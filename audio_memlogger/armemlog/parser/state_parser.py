@@ -1,6 +1,6 @@
 #    PAL State Parser file for mem logger
-#    Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
-#    SPDX-License-Identifier: BSD-3-Clause-Clear
+#    Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+#    SPDX-License-Identifier: BSD-3-Clause
 from struct import unpack, unpack_from, calcsize
 from datetime import datetime
 import sys

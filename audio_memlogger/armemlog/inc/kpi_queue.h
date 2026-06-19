@@ -5,8 +5,8 @@
 * \brief
 *      Defines memory structure for the KPI memory queue.
 *
-*  Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
-*  SPDX-License-Identifier: BSD-3-Clause-Clear
+*  Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+*  SPDX-License-Identifier: BSD-3-Clause
 */
 
 #define MEM_LOGGER_FUNC_NAME_MAX 61 // 61 to efficiently pack bytes into struct
