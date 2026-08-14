@@ -16,3 +16,4 @@ autoconf --force
 # Run the configure script with the specified arguments
 ./configure ${BUILD_ARGS}
 make DESTDIR=${GITHUB_WORKSPACE}/build install
+
