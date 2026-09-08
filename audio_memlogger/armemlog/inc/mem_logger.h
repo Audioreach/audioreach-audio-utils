@@ -6,8 +6,8 @@
 *      Defines platform agnostic APIs for logging items to memory
        and dumping them to the file system.
 
-*  Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
-*  SPDX-License-Identifier: BSD-3-Clause-Clear
+*  Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+*  SPDX-License-Identifier: BSD-3-Clause
 */
 
 #include <stddef.h>
